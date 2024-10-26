@@ -1,0 +1,14 @@
+.web3d-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.tp-image {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+.image-container {
+    margin-top: 20px;
+}

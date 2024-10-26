@@ -1,0 +1,83 @@
+.home-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.profile-section {
+    display: flex;
+    align-items: center;
+    background-color: #001f3f;
+    /* Bleu marine */
+    padding: 20px;
+    border-radius: 8px;
+    /* Coins arrondis */
+    color: white;
+    /* Texte blanc */
+    margin-bottom: 20px;
+    /* Espace entre la section de profil et les modules */
+}
+
+.profile-photo {
+    width: 150px;
+    /* Ajuste la taille de la photo */
+    height: 150px;
+    /* Ajuste la taille de la photo */
+    border-radius: 50%;
+    /* Photo ronde */
+    margin-right: 20px;
+    /* Espace entre la photo et le texte */
+}
+
+.profile-section h1 {
+    font-size: 2em;
+    /* Taille du nom */
+    margin: 0;
+    /* Supprimer les marges par défaut */
+}
+
+.modules-section {
+    margin-top: 20px;
+}
+
+.modules-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* Une colonne */
+    gap: 10px;
+    /* Espace entre les modules */
+}
+
+.module-card {
+    background-color: #e9ecef;
+    /* Couleur de fond des cartes de module */
+    width: 90%;
+    /* Largeur de 90 % de la page */
+    height: 2cm;
+    /* Hauteur de 2 cm */
+    display: flex;
+    /* Utiliser flexbox */
+    justify-content: center;
+    /* Centrer horizontalement */
+    align-items: center;
+    /* Centrer verticalement */
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    /* Texte blanc */
+    transition: background-color 0.3s;
+    /* Effet de transition */
+    margin: 0 auto;
+    /* Centrer horizontalement */
+}
+
+.module-card:hover {
+    background-color: #5bcded;
+    /* Couleur au survol */
+}
+
+.module-name {
+    font-size: 1.5em;
+    /* Taille du texte des noms des modules */
+    margin: 0;
+    /* Supprimer les marges par défaut */
+}
