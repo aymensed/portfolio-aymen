@@ -1,11 +1,20 @@
 /* Styles généraux */
 
-.web3d-container {
+body {
     font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
     color: #333;
-    padding: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.web3d-container {
     max-width: 800px;
-    margin: auto;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
 }
 
 
@@ -17,22 +26,34 @@
     padding: 20px;
     text-align: center;
     margin-bottom: 20px;
-    width: 100vw;
-    /* Largeur totale de la fenêtre */
-    position: relative;
-    /* Pour aligner sans marge */
-    left: 50%;
-    transform: translateX(-50%);
+    width: 100%;
+    /* Utiliser 100% pour que ça prenne toute la largeur */
 }
 
-.tp-container h2 {
-    color: #000000;
-    font-size: 1.6em;
-    margin-top: 20px;
+.header-module h1 {
+    margin: 0;
 }
 
 
-/* Carousel et cadres d'images */
+/* Titre de chaque TP */
+
+.web3d-container h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+/* Texte descriptif */
+
+.web3d-container p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+
+/* Carousel de la galerie d'images */
 
 .carousel-container {
     display: flex;
@@ -44,46 +65,28 @@
 .image-frame {
     position: relative;
     max-width: 1400px;
-    max-height: 1000px;
+    /* Assurez-vous que cela correspond à votre mise en page */
     padding: 15px;
     border: 2px solid #001f3f;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f0f0f0;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f0f0f0;
 }
-
-
-/* Image styling */
 
 .tp-image {
     width: 100%;
     height: auto;
     border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 
-/* Boutons de navigation */
+/* Boutons de téléchargement et de navigation */
 
-.nav-button {
-    font-size: 2em;
-    background: none;
-    border: none;
-    color: #001f3f;
-    cursor: pointer;
-    transition: color 0.2s;
-}
-
-.nav-button:hover {
-    color: #001f3f;
-}
-
-
-/* Bouton de téléchargement */
-
-.download-button {
+.download-button3d {
     position: absolute;
     bottom: 10px;
     left: 50%;
@@ -98,6 +101,61 @@
     transition: background-color 0.3s;
 }
 
-.download-button:hover {
+.download-button3d:hover {
     background-color: #21867a;
+    /* Couleur améliorée pour le survol */
+}
+
+.nav-button {
+    font-size: 2em;
+    background: none;
+    border: none;
+    color: #001f3f;
+    cursor: pointer;
+    transition: color 0.2s;
+    padding: 0 10px;
+    /* Ajout de padding pour les boutons de navigation */
+}
+
+.nav-button:hover {
+    color: #0056b3;
+    /* Changé pour une meilleure visibilité au survol */
+}
+
+
+/* Container pour la visualisation du modèle 3D */
+
+.three-container {
+    width: 100%;
+    max-width: 800px;
+    /* Limitez la largeur maximale */
+    margin: 0 auto;
+    /* Centre le conteneur */
+    height: 400px;
+    /* Ajustez la hauteur selon vos besoins */
+    overflow: hidden;
+    /* Cache le débordement */
+}
+
+.three-container h2 {
+    margin-bottom: 10px;
+}
+
+.three-canvas {
+    width: 100%;
+    height: 400px;
+    /* Ajusté pour une hauteur raisonnable */
+    padding: 40px;
+    /* Augmentez cette valeur pour un espacement plus important */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Titre des TP (à utiliser si nécessaire) */
+
+.tp-container h2 {
+    color: #000;
+    font-size: 1.6em;
+    margin-top: 20px;
 }

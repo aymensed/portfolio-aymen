@@ -1,0 +1,68 @@
+/* Conteneur principal de la liste des exercices */
+
+.exercises-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* Espacement entre chaque exercice */
+    margin-top: 20px;
+    overflow-y: auto;
+    max-height: 80vh;
+}
+
+
+/* Conteneur pour chaque exercice */
+
+
+/* Conteneur pour chaque exercice */
+
+.exercise-item {
+    display: flex;
+    justify-content: space-between;
+    /* Assure que le titre et le bouton sont espacés */
+    align-items: left;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+    width: 60%;
+}
+
+
+/* Style du titre de l'exercice */
+
+.exercise-item h3 {
+    color: #001f3f;
+    margin: 0;
+    font-size: 16px;
+    flex-grow: 1;
+    /* Permet au titre de prendre tout l'espace disponible */
+    white-space: nowrap;
+    /* Empêche le texte de passer à la ligne */
+    overflow: hidden;
+    /* Masque le texte qui déborde */
+    text-overflow: ellipsis;
+    /* Ajoute des points de suspension si le texte est trop long */
+}
+
+
+/* Style du bouton de téléchargement */
+
+.download-button {
+    background-color: #001f3f;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    position: relative;
+    /* Ajout de position relative */
+    margin-left: 10px;
+    /* Espace entre le titre et le bouton */
+}
+
+.download-button:hover {
+    background-color: #004080;
+}
