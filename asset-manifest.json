@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-aymen/static/css/main.ad4edb3e.css",
-    "main.js": "/portfolio-aymen/static/js/main.15467c4b.js",
+    "main.css": "/portfolio-aymen/static/css/main.490f0111.css",
+    "main.js": "/portfolio-aymen/static/js/main.cee3ec0d.js",
     "static/js/453.111edab2.chunk.js": "/portfolio-aymen/static/js/453.111edab2.chunk.js",
     "static/media/TP1.blend": "/portfolio-aymen/static/media/TP1.e423f80b5904f0357874.blend",
     "static/media/photo3d.glb": "/portfolio-aymen/static/media/photo3d.800a0a88084356ac1f3a.glb",
+    "static/media/TP2.blend": "/portfolio-aymen/static/media/TP2.e2da7a49827d8ac1da7c.blend",
     "static/media/frame14.png": "/portfolio-aymen/static/media/frame14.c341d58e64a9001319d9.png",
     "static/media/frame13.png": "/portfolio-aymen/static/media/frame13.5bbddfea9e97072848ce.png",
     "static/media/frame11.png": "/portfolio-aymen/static/media/frame11.407220323cc376efdd25.png",
     "static/media/frame12.png": "/portfolio-aymen/static/media/frame12.b48a2d413b78a373ef37.png",
     "static/media/chaise.png": "/portfolio-aymen/static/media/chaise.e8150a6822d12f7f423d.png",
+    "static/media/videoboat.mp4": "/portfolio-aymen/static/media/videoboat.873d130bf8e497337096.mp4",
     "static/media/aymenpic.png": "/portfolio-aymen/static/media/aymenpic.e7b8031aeea1034ab1f4.png",
     "static/media/tp1-ex3-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex3-aa2.ec5b173b33447d0a3a0d.ipynb",
     "static/media/tp1-ex4-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex4-aa2.8bcbc241e8ca6e627726.ipynb",
@@ -18,12 +20,12 @@
     "static/media/tp1-ex2-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex2-aa2.30773de80d93fe906564.ipynb",
     "static/media/tp1-ex1-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex1-aa2.0a7f259554a66eea2a65.ipynb",
     "index.html": "/portfolio-aymen/index.html",
-    "main.ad4edb3e.css.map": "/portfolio-aymen/static/css/main.ad4edb3e.css.map",
-    "main.15467c4b.js.map": "/portfolio-aymen/static/js/main.15467c4b.js.map",
+    "main.490f0111.css.map": "/portfolio-aymen/static/css/main.490f0111.css.map",
+    "main.cee3ec0d.js.map": "/portfolio-aymen/static/js/main.cee3ec0d.js.map",
     "453.111edab2.chunk.js.map": "/portfolio-aymen/static/js/453.111edab2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad4edb3e.css",
-    "static/js/main.15467c4b.js"
+    "static/css/main.490f0111.css",
+    "static/js/main.cee3ec0d.js"
   ]
 }
