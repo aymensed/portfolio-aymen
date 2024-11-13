@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-aymen/static/css/main.490f0111.css",
-    "main.js": "/portfolio-aymen/static/js/main.de98cb0e.js",
+    "main.css": "/portfolio-aymen/static/css/main.a368678c.css",
+    "main.js": "/portfolio-aymen/static/js/main.ac171cc7.js",
     "static/js/453.111edab2.chunk.js": "/portfolio-aymen/static/js/453.111edab2.chunk.js",
     "static/media/TP1.blend": "/portfolio-aymen/static/media/TP1.e423f80b5904f0357874.blend",
     "static/media/photo3d.glb": "/portfolio-aymen/static/media/photo3d.800a0a88084356ac1f3a.glb",
@@ -12,20 +12,27 @@
     "static/media/frame12.png": "/portfolio-aymen/static/media/frame12.b48a2d413b78a373ef37.png",
     "static/media/chaise.png": "/portfolio-aymen/static/media/chaise.e8150a6822d12f7f423d.png",
     "static/media/videoboat.mp4": "/portfolio-aymen/static/media/videoboat.873d130bf8e497337096.mp4",
+    "static/media/c63_2.png": "/portfolio-aymen/static/media/c63_2.e09032cbfd6bf077c477.png",
+    "static/media/c63_1.png": "/portfolio-aymen/static/media/c63_1.95bcbd8af47f31adcac2.png",
+    "static/media/c63_3.png": "/portfolio-aymen/static/media/c63_3.02d0decc243b662ec109.png",
     "static/media/aymenpic.png": "/portfolio-aymen/static/media/aymenpic.e7b8031aeea1034ab1f4.png",
     "static/media/tp1-ex3-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex3-aa2.ec5b173b33447d0a3a0d.ipynb",
     "static/media/tp1-ex4-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex4-aa2.8bcbc241e8ca6e627726.ipynb",
+    "static/media/c63_0.png": "/portfolio-aymen/static/media/c63_0.93f46963027e1a61b621.png",
     "static/media/tp1-ex6-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex6-aa2.8526d9c8fa31bb845d62.ipynb",
     "static/media/tp1-ex5-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex5-aa2.1a55676eea38eab14805.ipynb",
+    "static/media/208.png": "/portfolio-aymen/static/media/208.a01c9e2ab8a874225ed2.png",
+    "static/media/gls.png": "/portfolio-aymen/static/media/gls.1f85efaab3ee8f4f75d8.png",
     "static/media/tp1-ex2-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex2-aa2.30773de80d93fe906564.ipynb",
+    "static/media/bmw.png": "/portfolio-aymen/static/media/bmw.494c4a80882a3dc67927.png",
     "static/media/tp1-ex1-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex1-aa2.0a7f259554a66eea2a65.ipynb",
     "index.html": "/portfolio-aymen/index.html",
-    "main.490f0111.css.map": "/portfolio-aymen/static/css/main.490f0111.css.map",
-    "main.de98cb0e.js.map": "/portfolio-aymen/static/js/main.de98cb0e.js.map",
+    "main.a368678c.css.map": "/portfolio-aymen/static/css/main.a368678c.css.map",
+    "main.ac171cc7.js.map": "/portfolio-aymen/static/js/main.ac171cc7.js.map",
     "453.111edab2.chunk.js.map": "/portfolio-aymen/static/js/453.111edab2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.490f0111.css",
-    "static/js/main.de98cb0e.js"
+    "static/css/main.a368678c.css",
+    "static/js/main.ac171cc7.js"
   ]
 }
