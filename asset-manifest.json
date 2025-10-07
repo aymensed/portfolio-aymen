@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio-aymen/static/css/main.c4026ecd.css",
-    "main.js": "/portfolio-aymen/static/js/main.6cdc3751.js",
+    "main.css": "/portfolio-aymen/static/css/main.e7c26aa0.css",
+    "main.js": "/portfolio-aymen/static/js/main.e888cc7c.js",
     "static/js/453.111edab2.chunk.js": "/portfolio-aymen/static/js/453.111edab2.chunk.js",
     "static/media/TP1.blend": "/portfolio-aymen/static/media/TP1.e423f80b5904f0357874.blend",
     "static/media/photo3d.glb": "/portfolio-aymen/static/media/photo3d.800a0a88084356ac1f3a.glb",
     "static/media/TP2.blend": "/portfolio-aymen/static/media/TP2.90a67334794a2b61fb79.blend",
+    "static/media/c63_3d.glb": "/portfolio-aymen/static/media/c63_3d.7b1404640ff88a73304a.glb",
+    "static/media/aymenpic1.webp": "/portfolio-aymen/static/media/aymenpic1.d1ecbe0c38368c2baaea.webp",
     "static/media/frame14.png": "/portfolio-aymen/static/media/frame14.c341d58e64a9001319d9.png",
     "static/media/frame13.png": "/portfolio-aymen/static/media/frame13.5bbddfea9e97072848ce.png",
     "static/media/frame11.png": "/portfolio-aymen/static/media/frame11.407220323cc376efdd25.png",
@@ -15,7 +17,6 @@
     "static/media/c63_2.png": "/portfolio-aymen/static/media/c63_2.e09032cbfd6bf077c477.png",
     "static/media/c63_1.png": "/portfolio-aymen/static/media/c63_1.95bcbd8af47f31adcac2.png",
     "static/media/c63_3.png": "/portfolio-aymen/static/media/c63_3.02d0decc243b662ec109.png",
-    "static/media/aymenpic.png": "/portfolio-aymen/static/media/aymenpic.e7b8031aeea1034ab1f4.png",
     "static/media/tp1-ex3-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex3-aa2.ec5b173b33447d0a3a0d.ipynb",
     "static/media/tp1-ex4-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex4-aa2.8bcbc241e8ca6e627726.ipynb",
     "static/media/c63_0.png": "/portfolio-aymen/static/media/c63_0.93f46963027e1a61b621.png",
@@ -29,12 +30,12 @@
     "static/media/VR.png": "/portfolio-aymen/static/media/VR.b04f3077a4f3ca597502.png",
     "static/media/tp1-ex1-aa2.ipynb": "/portfolio-aymen/static/media/tp1-ex1-aa2.0a7f259554a66eea2a65.ipynb",
     "index.html": "/portfolio-aymen/index.html",
-    "main.c4026ecd.css.map": "/portfolio-aymen/static/css/main.c4026ecd.css.map",
-    "main.6cdc3751.js.map": "/portfolio-aymen/static/js/main.6cdc3751.js.map",
+    "main.e7c26aa0.css.map": "/portfolio-aymen/static/css/main.e7c26aa0.css.map",
+    "main.e888cc7c.js.map": "/portfolio-aymen/static/js/main.e888cc7c.js.map",
     "453.111edab2.chunk.js.map": "/portfolio-aymen/static/js/453.111edab2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4026ecd.css",
-    "static/js/main.6cdc3751.js"
+    "static/css/main.e7c26aa0.css",
+    "static/js/main.e888cc7c.js"
   ]
 }
